@@ -23,10 +23,7 @@ function sumOfNumbers(arrayOfNumbers) {
 }
  assignment.sumOfNumbers = sumOfNumbers;
 
-function sumOfNumbers(arrayOfNumbers) {
-    return arrayOfNumbers.length;
-}
-// assignment.sumOfNumbers = sumOfNumbers;
+
 
 /**
  * Challenge - 2
