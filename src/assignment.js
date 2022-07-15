@@ -5,7 +5,7 @@ const assignment = {};
 
 
 /**
- * Challenge - 1
+* Challenge - 1
  * 
  * Calculate and return the sum of the numbers in an array.
  * If you did Challenge - 1, remove the comment in the line just after this function
@@ -20,12 +20,11 @@ function sumOfNumbers(arrayOfNumbers) {
     
 
     }
+  return sum;
 }
  assignment.sumOfNumbers = sumOfNumbers;
-
-
-
 /**
+
  * Challenge - 2
  * 
  * Count all even numbers within an array of numbers.
